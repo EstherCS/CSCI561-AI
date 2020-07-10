@@ -1,0 +1,9 @@
+﻿  homework11.cpp
+z:\usccs\561-ai\hw\hw1\homework11.cpp(86): warning C4018: '<': signed/unsigned 不相符
+z:\usccs\561-ai\hw\hw1\homework11.cpp(173): warning C4018: '<': signed/unsigned 不相符
+z:\usccs\561-ai\hw\hw1\homework11.cpp(205): warning C4018: '<': signed/unsigned 不相符
+z:\usccs\561-ai\hw\hw1\homework11.cpp(263): warning C4018: '<': signed/unsigned 不相符
+z:\usccs\561-ai\hw\hw1\homework11.cpp(373): warning C4018: '<': signed/unsigned 不相符
+z:\usccs\561-ai\hw\hw1\homework11.cpp(437): warning C4018: '<': signed/unsigned 不相符
+z:\usccs\561-ai\hw\hw1\homework11.cpp(466): warning C4018: '<': signed/unsigned 不相符
+  HW1.vcxproj -> Z:\USCCS\561-AI\HW\HW1\Debug\HW1.exe

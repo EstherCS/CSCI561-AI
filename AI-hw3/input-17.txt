@@ -1,0 +1,4 @@
+1A(Alice,Bob)3
+A(x,y) & A(y,z) => A(x,z)
+A(Alice,Tom)
+A(Tom,Peter)
